@@ -1,0 +1,15 @@
+C:\Users\oguzh\Source\Repos\Astrolojiv2\WebApplication1\DAL\bin\Debug\DAL.dll
+C:\Users\oguzh\Source\Repos\Astrolojiv2\WebApplication1\DAL\bin\Debug\DAL.pdb
+C:\Users\oguzh\Source\Repos\Astrolojiv2\WebApplication1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\oguzh\Source\Repos\Astrolojiv2\WebApplication1\DAL\obj\Debug\DAL.dll
+C:\Users\oguzh\Source\Repos\Astrolojiv2\WebApplication1\DAL\obj\Debug\DAL.pdb
+C:\Users\CASPER\Desktop\projemm\Astrolojiv2\Astrolojiv2\WebApplication1\DAL\bin\Debug\DAL.dll
+C:\Users\CASPER\Desktop\projemm\Astrolojiv2\Astrolojiv2\WebApplication1\DAL\bin\Debug\DAL.pdb
+C:\Users\CASPER\Desktop\projemm\Astrolojiv2\Astrolojiv2\WebApplication1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Desktop\projemm\Astrolojiv2\Astrolojiv2\WebApplication1\DAL\obj\Debug\DAL.dll
+C:\Users\CASPER\Desktop\projemm\Astrolojiv2\Astrolojiv2\WebApplication1\DAL\obj\Debug\DAL.pdb
+C:\Users\CASPER\tasarım\Astrolojiv2\Astrolojiv2\WebApplication1\DAL\bin\Debug\DAL.dll
+C:\Users\CASPER\tasarım\Astrolojiv2\Astrolojiv2\WebApplication1\DAL\bin\Debug\DAL.pdb
+C:\Users\CASPER\tasarım\Astrolojiv2\Astrolojiv2\WebApplication1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\tasarım\Astrolojiv2\Astrolojiv2\WebApplication1\DAL\obj\Debug\DAL.dll
+C:\Users\CASPER\tasarım\Astrolojiv2\Astrolojiv2\WebApplication1\DAL\obj\Debug\DAL.pdb
